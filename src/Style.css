@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .Form{
+      padding:5px;
+    }
+}
+.Form{
+  padding: 10px;
+}
+.Form input{
+  margin:5px;
+  padding: 3px;
+}
+
+.button{
+  padding: 4px;
+  background-color: #119dcd;
+  border-radius: 4px;
+  border: none;
+  color: #FFF;
+}
