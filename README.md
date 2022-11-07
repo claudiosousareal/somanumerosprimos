@@ -1,4 +1,6 @@
-# somanumerosprimos
+# Busca números primos
+
+## lista números primos em um intervalo
 
  Neste projeto simples temos campos, inicial e final, onde digitados os valores mostrar os números primos contidos entre o intervalo.
 
